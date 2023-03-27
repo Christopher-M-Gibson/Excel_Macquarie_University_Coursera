@@ -9,7 +9,6 @@ These workbooks originally came from the Excel Data Analysis and Visualization S
 
 1) Workbook: Each workbook represents a different business problem. I use Excel features in each one to help the solve the problem illustrated in the workbook, which is given in the workbook. 
 
-2) Name of Workbook: The name of each workbook contains a brief overview of the contents of the workbook, as well as the main concepts covered in the workbook (in parenthesis).
-For example, a workbook maybe titled "Cleaning an HR Database - (Time/Date Functions)"
+2) Name of Workbook: The name of each workbook contains a brief overview of the contents of the workbook, as well as the main concepts covered in the workbook (in parenthesis). For example, a workbook may be titled "Cleaning Zenco HR Database (Text Functions)"
 
 3) Instructions Tab: Each workbook contains multiple tabs. The first tab is the Instructions Tab. This tab provides an overview of the steps that were performed in the workbook, and what tab(s) they were performed in. It serves as documentation, since it is hard to document work performed in Excel. Note that the Instructions Tabs in the Practice Challenge workbooks were created by the University of Macquarie, and I created the Instructions tabs for the quiz assignments. (Although, I did add a scenario line that provides an imaginary context to the workbook and its purpose).
