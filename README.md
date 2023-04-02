@@ -2,6 +2,8 @@
 
 Microsoft Excel is a spreadsheet software utilized by many across the globe. It is a key tool in data analysis and visualization. In this repository are various spreadsheets, where I use Microsoft Excel and many of its functions to solve fictional business problems related to data analysis and visualization. 
 
+Also included are two folders. One is the Cheat Sheets folder, which includes all the cheat sheets provided by the course. They are concise and helpful when using Excel. The other is the Course Certificates folder. This is where a copy of the certificate I received for completing each course is stored.
+
 ### Note  
 These workbooks originally came from the Excel Data Analysis and Visualization Specialization provided by Macquarie University on Coursera. These workbooks originally were designed to be used for the Practice Challenges and Weekly quizzes. I have reformatted the workbooks, adding a fictional scenario that the workbook addresses. I highly recommend this specialization, as the lectures are informative, concise, and there is ample opportunity to practice the materials learned.
 
